@@ -7,4 +7,3 @@ end
 
 ary = [9, 7, 5, 11, 12, 2, 14, 3, 10, 4, 6]
 p quicksort(ary)
-
